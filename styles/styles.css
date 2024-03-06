@@ -1,0 +1,10 @@
+.flexLine{
+    display: flex;
+}
+#showDiv{
+    visibility: hidden;
+    background-color: yellow;
+} 
+/* .hidden{
+    visibility: hidden;
+}  */
